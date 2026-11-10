@@ -2,3 +2,4 @@ Bloomberg
 CNN
 economist
 nytimes
+new_yorker
