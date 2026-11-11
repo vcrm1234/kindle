@@ -1,5 +1,4 @@
 Bloomberg
-economist
 nytimes
 new_yorker
 南方周末
