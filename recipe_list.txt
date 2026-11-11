@@ -2,3 +2,4 @@ Bloomberg
 nytimes
 new_yorker
 infzm
+wsj
